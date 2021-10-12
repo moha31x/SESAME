@@ -1,7 +1,4 @@
 # SESAME
-Sesame-Production
-Codacy Badge
-
 Introduction
 The data used in this workflow has been obtained from the United Nations Food and Agriculture Organisation public data repository.
 
